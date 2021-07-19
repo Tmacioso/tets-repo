@@ -1,3 +1,3 @@
 # tets-repo
 
-foo
+foo bar
